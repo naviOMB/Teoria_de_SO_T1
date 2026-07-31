@@ -16,13 +16,6 @@ El programa requiere como entrada un **número entero entre 3 y 8 (inclusive)**,
 
 ---
 
-## Integrantes
-
-- **Iván Weber Sanzana** — ROL: 202104092-7  
-- **Alicia Pereira Vásquez** — ROL: 202130002-3  
-
----
-
 ## Compilación
 
 Para compilar el programa, se debe utilizar el siguiente comando en una terminal Linux:
